@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "production": "elephant-learn",
+    "default": "elephant-learn-test",
+    "staging": "elephant-learn-test"
+  }
+}
